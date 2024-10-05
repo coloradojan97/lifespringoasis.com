@@ -15,39 +15,39 @@
 </div>
 <div id="header">
   <ul>
-  <li id="Home"><script type="text/javascript">tabTop("Home")</script><a href="index.shtml.html">Home</a></li>
+  <li id="Home"><script type="text/javascript">tabTop("Home")</script><a href="index.shtml">Home</a></li>
 
-	<li id="Accommodations"><script type="text/javascript">tabTop("Accommodations")</script><a href="accommodations.shtml.html">Features</a></li>
+	<li id="Accommodations"><script type="text/javascript">tabTop("Accommodations")</script><a href="accommodations.shtml">Features</a></li>
 
-	<li id="Justforyou"><script type="text/javascript">tabTop("Justforyou")</script><a href="justforyou.shtml.html">Just for You</a></li>
+	<li id="Justforyou"><script type="text/javascript">tabTop("Justforyou")</script><a href="justforyou.shtml">Just for You</a></li>
 
-<li id="Rates"><script type="text/javascript">tabTop("Rates")</script><a href="rates.shtml.html">Rates</a></li>
+<li id="Rates"><script type="text/javascript">tabTop("Rates")</script><a href="rates.shtml">Rates</a></li>
 
-<li id="Availability"><script type="text/javascript">tabTop("Availability")</script><a href="availability.shtml.html"> Availability</a></li>
+<li id="Availability"><script type="text/javascript">tabTop("Availability")</script><a href="availability.shtml"> Availability</a></li>
 
-	<li id="About"><script type="text/javascript">tabTop("About")</script><a href="about.shtml.html">About Jan</a></li>
+	<li id="About"><script type="text/javascript">tabTop("About")</script><a href="about.shtml">About Jan</a></li>
 
-	<li id="Contact"><script type="text/javascript">tabTop("Contact")</script><a href="contact.shtml.html">Contact</a></li>
+	<li id="Contact"><script type="text/javascript">tabTop("Contact")</script><a href="contact.shtml">Contact</a></li>
 </ul>
 </div>
 <div id="leftcontent">
 	<div id="button"> 
 	<ul>
 
-	<li id="Home"><script type="text/javascript">tabLeft("Home")</script><a href="index.shtml.html"> Home</a></li>
+	<li id="Home"><script type="text/javascript">tabLeft("Home")</script><a href="index.shtml"> Home</a></li>
 
-	<li id="Accommodations"><script type="text/javascript">tabLeft("Accommodations")</script><a href="accommodations.shtml.html"> Features</a></li>
+	<li id="Accommodations"><script type="text/javascript">tabLeft("Accommodations")</script><a href="accommodations.shtml"> Features</a></li>
 
-	<li id="Retreats"><script type="text/javascript">tabLeft("Retreats")</script><a href="justforyou.shtml.html">Just for You</a></li>
+	<li id="Retreats"><script type="text/javascript">tabLeft("Retreats")</script><a href="justforyou.shtml">Just for You</a></li>
 
-	<li id="Rates"><script type="text/javascript">tabLeft("Rates")</script><a href="rates.shtml.html">Rates</a></li>
+	<li id="Rates"><script type="text/javascript">tabLeft("Rates")</script><a href="rates.shtml">Rates</a></li>
 
 
-	<li id="Availability"><script type="text/javascript">tabLeft("Availability")</script><a href="availability.shtml.html">Availability</a></li>
+	<li id="Availability"><script type="text/javascript">tabLeft("Availability")</script><a href="availability.shtml">Availability</a></li>
 
-	<li id="About"><script type="text/javascript">tabLeft("About")</script><a href="about.shtml.html">About</a></li>
+	<li id="About"><script type="text/javascript">tabLeft("About")</script><a href="about.shtml">About</a></li>
 
-	<li id="Contact"><script type="text/javascript">tabLeft("Contact")</script><a href="contact.shtml.html">Contact</a></li>
+	<li id="Contact"><script type="text/javascript">tabLeft("Contact")</script><a href="contact.shtml">Contact</a></li>
    
 
 
@@ -87,7 +87,7 @@
 <p>We reserve the right to select applicants on the basis of suitability and scheduling priorities.</p>
 <br>
 
-  ^ <a href="rates.shtml.html#top">Return to Top</a>
+  ^ <a href="rates.shtml#top">Return to Top</a>
 </div>
 <div id="rightcontent">
 	

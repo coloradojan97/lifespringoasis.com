@@ -15,29 +15,29 @@
 </div>
 <div id="header">
   <ul>
-  <li id="Home"><script type="text/javascript">tabTop("Home")</script><a href="index.shtml.html">Home</a></li>
+  <li id="Home"><script type="text/javascript">tabTop("Home")</script><a href="index.shtml">Home</a></li>
 
-	<li id="Accommodations"><script type="text/javascript">tabTop("Accommodations")</script><a href="accommodations.shtml.html">Features</a></li>
+	<li id="Accommodations"><script type="text/javascript">tabTop("Accommodations")</script><a href="accommodations.shtml">Features</a></li>
 
-	<li id="Justforyou"><script type="text/javascript">tabTop("Justforyou")</script><a href="justforyou.shtml.html">Just for You</a></li>
+	<li id="Justforyou"><script type="text/javascript">tabTop("Justforyou")</script><a href="justforyou.shtml">Just for You</a></li>
 
-<li id="Rates"><script type="text/javascript">tabTop("Rates")</script><a href="rates.shtml.html">Rates</a></li>
+<li id="Rates"><script type="text/javascript">tabTop("Rates")</script><a href="rates.shtml">Rates</a></li>
 
-<li id="Availability"><script type="text/javascript">tabTop("Availability")</script><a href="availability.shtml.html"> Availability</a></li>
+<li id="Availability"><script type="text/javascript">tabTop("Availability")</script><a href="availability.shtml"> Availability</a></li>
 
-	<li id="About"><script type="text/javascript">tabTop("About")</script><a href="about.shtml.html">About Jan</a></li>
+	<li id="About"><script type="text/javascript">tabTop("About")</script><a href="about.shtml">About Jan</a></li>
 
-	<li id="Contact"><script type="text/javascript">tabTop("Contact")</script><a href="contact.shtml.html">Contact</a></li>
+	<li id="Contact"><script type="text/javascript">tabTop("Contact")</script><a href="contact.shtml">Contact</a></li>
 </ul>
 </div>
 <div id="leftcontent">
 	<div id="button"> 
 	<ul>
 
-	  <li id="Students"><script type="text/javascript">tabLeft("Students")</script><a href="students.shtml.html">Student</a></li>
-	  <li id="Executives"><script type="text/javascript">tabLeft("Executives")</script><a href="executives.shtml.html">Executive/Scientist</a></li>
+	  <li id="Students"><script type="text/javascript">tabLeft("Students")</script><a href="students.shtml">Student</a></li>
+	  <li id="Executives"><script type="text/javascript">tabLeft("Executives")</script><a href="executives.shtml">Executive/Scientist</a></li>
 
-	  <li id="Athletes"><script type="text/javascript">tabLeft("Athletes")</script><a href="athletes.shtml.html">Athlete</a></li>
+	  <li id="Athletes"><script type="text/javascript">tabLeft("Athletes")</script><a href="athletes.shtml">Athlete</a></li>
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-  ^ <a href="athletes.shtml.html#top">Return to Top</a>
+  ^ <a href="athletes.shtml#top">Return to Top</a>
 </div>
 <div id="rightcontent">
 	
