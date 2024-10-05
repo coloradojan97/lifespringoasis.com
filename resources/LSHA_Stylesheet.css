@@ -1,0 +1,350 @@
+body
+{
+  margin:0px 0px 0px 0px;
+  font-size: 12pt;
+  background-color: #edeadd;
+  
+}
+
+table
+{
+	font-size: 12pt;
+	text-align: left;
+}
+
+form, input, button
+{
+  font-size: 11pt;
+}
+
+table.thinborder
+{ 
+	border-collapse: collapse;
+}
+  
+table.thinborder td
+{
+	border-top: 1px solid #6699FF;
+	border-right: 1px solid #6699FF;
+	border-bottom: 1px solid #6699FF;
+	border-left: 1px solid #6699FF;
+}
+
+html>body #centercontent p.smaller
+{
+  font-size: 11pt;
+}
+
+#banner
+{
+		background-color:#5C8DB8;
+		height: 159px;
+		width: 100%;
+		padding: 0 0 0 0;
+		margin-left: 10px;
+		position: relative;
+		voice-family: "\"}\"";
+		voice-family: inherit;
+		background:url("images/header_bg.jpg") repeat-x bottom left;
+}
+
+/* Navigation Tab Styles START */
+#header
+{
+	position: absolute;
+	left: 145px;
+	width: 675px;
+	background:url("images/nav_bg.gif") repeat-x bottom left;
+	margin-bottom: 0px;
+}
+	
+#header ul
+{
+	margin:0;
+	padding:10px 10px 0 0;
+	list-style:none;
+}
+
+#header li
+{
+	float:left;
+	background:url("images/nav_tab_left.gif") no-repeat left top;
+	margin:0;
+	padding:0 0 0 9px;
+}
+
+#header a
+{
+	float:left;
+	display:block;
+	background:url("images/nav_tab_right.gif") no-repeat right top;
+	padding:5px 15px 4px 6px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#0453B0;
+	font-family: 'Arial','Helvetica','Verdana','San-Serif';
+	font-size: 12px;
+}
+
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#header a {float:none;}
+/* End IE5-Mac hack */
+
+#header a:hover
+{
+	color:#A78AB6;
+}
+	
+#header #current
+{
+	background:url("images/nav_tab_left_on.gif");
+	border-width:0;
+}
+	
+#header #current a
+{
+	background:url("images/nav_tab_right_on.gif");
+	color:#339900;
+	padding-bottom:5px;
+}
+/* Navigation Tab Styles END */
+
+#leftcontent
+{
+	position: absolute;
+	left:10px;
+	top:195px;
+	width:135px;
+	background:#ffffff;
+	padding: 0 0 0 0;
+	border-top: 1px solid #3A6EA5;
+}
+
+#button
+{
+    background:#fff;
+    padding: 0 0 0 0;
+    margin-bottom: 0;
+    background-color: #999999;
+
+}
+
+#leftcontent ul
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+#leftcontent li
+{
+  border-bottom: 1px solid #3A6EA5;
+  margin: 0;
+                } 		
+#button li a
+{
+  display: block;
+  padding: 3px 3px 3px 7px;
+  border-left: 1px solid #3A6EA5;
+  background-color: #93D6F0;
+  color: #335577;
+  text-decoration: none;
+  font-family: 'Arial','Helvetica','Verdana','San-Serif';
+  font-size: 11pt;
+}
+
+#button li.current a
+{
+  display: block;
+  padding: 3px 3px 3px 4px;
+  border-left: 4px solid #66CC33;
+  background-color: #ffffff;
+  color: #339900;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+html>body #button li a
+{
+  width: auto;
+}
+
+#button li a:hover
+{
+  padding: 3px 3px 3px 3px;
+  border-left: 4px solid #A78AB6;
+  color: #A78ABF;
+}	
+
+#centercontent
+{
+  background-color:#fff;
+  text-align:justify;
+  border-top: 1px solid #999999;
+  border-left: 1px solid #999999;
+  border-right: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+  margin-left: 145px;
+	padding: 50px 10px 10px 10px;
+	margin-top: 0px;
+	width:655px;
+	top:83px;
+	text-align:justify;
+	/*
+	IE5x PC mis-implements the box model. Because of that we sometimes have
+	Read more at http://www.glish.com/css/hacks.asp
+	*/
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	/* background: url('/resources/images/bgd_LSHA_Logo.jpg'); background-position: bottom center; background-repeat: no-repeat; */
+}
+
+#centercontent_search
+{
+  background-color:#fff;
+  border-top: 1px solid #999999;
+  border-left: 1px solid #999999;
+  border-right: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+  margin-left: 10px;
+	padding: 50px 10px 10px 10px;
+	margin-top: 0px;
+	width:655px;
+	top:83px;
+	text-align:justify;
+	/*
+	IE5x PC mis-implements the box model. Because of that we sometimes have
+	Read more at http://www.glish.com/css/hacks.asp
+	*/
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	/*background: url('/resources/images/bgd_LSHA_Logo.jpg'); background-position: bottom center; background-repeat: no-repeat;*/
+}
+
+/*
+html>body #centercontent
+{
+	top:83px;
+	left: 135px;*/  /* position in IE 5 Mac */
+/*	right:10px;
+	width:655px;
+	text-align:justify;
+	padding-top: 50px;
+}*/
+
+html>body #centercontent p
+{
+  font-size: 12pt;
+  line-height: 110%;
+  font-family: 'Times', serif;
+}
+
+#centercontent h1 { font-size:22pt; margin-bottom: 0px; font-family:sans-serif; color:#335577;}
+#centercontent h2 { font-size:18pt; margin-bottom: 0px; font-family:sans-serif; color:#335577;}
+#centercontent h3 { font-size:16pt; margin-bottom: 0px; font-family:sans-serif; color:#335577;}
+#centercontent h4 { font-size:12pt; margin-bottom: 0px; font-family:sans-serif; color:#335577;}
+
+#centercontent li
+{
+  font-size: 12pt;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  line-height: 110%;
+  font-family: 'Times', serif;
+}
+
+div.photoframe {
+	position: relative;
+	vertical-align:middle;
+	text-align:center;
+}
+
+
+.caption {
+	font-size:8pt; 
+	font-family:sans-serif; 
+	margin-top:0px;
+}
+
+.citation {
+  font-size: 12pt;
+  margin: 16px 60px 16px 60px;
+  line-height: 140%;
+  font-family: 'Times', serif;
+}
+
+
+#specialannouncement
+{
+	float: right;
+	position: relative;
+	right:0px;
+	top:0px;
+	width:250px;
+	background:#ffffdd;
+	padding: 0px 10px 10px 10px;
+	margin: 10px 0px 10px 10px;
+	border: 1px solid #999999;
+}
+
+#rightcontent
+{
+	font-family: 'Arial','Helvetica','Verdana','Sans-Serif';
+	color: #008855;
+	position: absolute;
+	left: 825px;
+	top:194px;
+	width:150px;
+	margin-top: 0px;
+	margin-left: 3px;
+	padding: 3px;
+	background-color: #FFF;
+}
+		
+#rightcontent p, ul, li { font-size:10pt }
+
+#rightcontent li
+{
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 5px;
+  margin-left: -20px;
+  line-height: 130%;
+}
+
+#rightcontent A        {font-family: 'Arial','Helvetica','Verdana','San-Serif'; font-size: 10pt; color: #003399; text-decoration: underline}
+#rightcontent A:LINK   {font-family: 'Arial','Helvetica','Verdana','San-Serif'; font-size: 10pt; color: #003399; text-decoration: underline}
+#rightcontent A:VISITED{font-family: 'Arial','Helvetica','Verdana','San-Serif'; font-size: 10pt; color: #003399; text-decoration: underline}
+#rightcontent A:HOVER  {font-family: 'Arial','Helvetica','Verdana','San-Serif'; font-size: 10pt; color: #339900; text-decoration: underline}
+#rightcontent A:ACTIVE {font-family: 'Arial','Helvetica','Verdana','San-Serif'; font-size: 10pt; color: #009933; text-decoration: underline}
+
+#footer {
+  background-color:#fff;
+  text-align:justify;
+  border: 1px solid #999999;
+  margin-left: 145px;
+  padding: 10px 10px 10px 10px;
+  margin-top: 0px;
+  width:655px;
+}
+#footer p{
+  text-decoration:none;
+  font-family: 'Arial','Helvetica','Verdana','San-Serif'; 
+  font-size: 10pt; 
+  color:335577;
+}
+
+
+
+A        {font-family: 'Times','Times-Roman','Sun-Serif','Serif'; font-size: 14px; color: #003399; text-decoration: underline}
+A:LINK   {font-family: 'Times','Times-Roman','Sun-Serif','Serif'; font-size: 14px; color: #003399; text-decoration: underline}
+A:VISITED{font-family: 'Times','Times-Roman','Sun-Serif','Serif'; font-size: 14px; color: #003399; text-decoration: underline}
+A:HOVER  {font-family: 'Times','Times-Roman','Sun-Serif','Serif'; font-size: 14px; color: #339900; text-decoration: underline}
+A:ACTIVE {font-family: 'Times','Times-Roman','Sun-Serif','Serif'; font-size: 14px; color: #009933; text-decoration: underline}
+
+A.header        {font-family: 'Times','Times-Roman','Sun-Serif','Serif'; font-size: 22px; font-weight:900; color: #000000; text-decoration: underline}
+A.header:LINK   {font-family: 'Times','Times-Roman','Sun-Serif','Serif'; font-size: 22px; font-weight:900; color: #000000; text-decoration: underline}
+A.header:VISITED{font-family: 'Times','Times-Roman','Sun-Serif','Serif'; font-size: 22px; font-weight:900; color: #000000; text-decoration: underline}
+A.header:HOVER  {font-family: 'Times','Times-Roman','Sun-Serif','Serif'; font-size: 22px; font-weight:900; color: #000000; text-decoration: underline}
+A.header:ACTIVE {font-family: 'Times','Times-Roman','Sun-Serif','Serif'; font-size: 22px; font-weight:900; color: #660000; text-decoration: underline}
